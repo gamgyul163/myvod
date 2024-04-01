@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
-  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=Keycloak&logoColor=white">
+  <img src="https://img.shields.io/badge/keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white">
 </div>
 
 ## 프로젝트 기능
@@ -79,7 +79,7 @@
 - 동영상 정보 변경
   - USER 권한을 가진 유저는 본인이 등록한 동영상에 대하여 정보 변경이 가능하다.
   - ADMIN 권한을 가진 유저는 모든 동영상에 대하여 정보 변경이 가능하다.
-  - 동영상 소스 변경을 불가능하다.
+  - 동영상 소스 변경은 불가능하다.
  
 - 동영상 삭제
   - USER 권한을 가진 유저는 본인이 등록한 동영상에 대하여 삭제가 가능하다.
@@ -92,7 +92,7 @@
 - 동영상 댓글/대댓글
 
 ## ERD 
-![ERD](doc/img/erd.png)
+![ERD](doc/erd.png)
 
 ## Trouble Shooting
 [go to the trouble shooting section](doc/TROUBLE_SHOOTING.md)
